@@ -35,3 +35,5 @@ Engine/Plugins/Marketplace/EOSOnlineSubsystem/Source/ThirdParty-IOS/Bin/IOS/EOSS
 Engine/Plugins/Marketplace/EOSOnlineSubsystem/Source/ThirdParty-IOS/Tools/EOS_DevAuthTool-darwin-x64-1.0.1.zip filter=lfs diff=lfs merge=lfs -text
 Engine/Plugins/Marketplace/EOSOnlineSubsystem/Source/ThirdParty/Tools/EOS_DevAuthTool-win32-x64-1.0.1.zip filter=lfs diff=lfs merge=lfs -text
 Engine/Plugins/Marketplace/EOSOnlineSubsystem/Source/ThirdParty/Tools/EOS_DevAuthTool-darwin-x64-1.0.1.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
