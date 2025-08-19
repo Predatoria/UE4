@@ -1,0 +1,8 @@
+{
+	"BuildId": "059291dd-1046-4bfa-869e-97f8d9b34381",
+	"Modules": 
+	{
+		"EmailPlugin": "UE4Editor-EmailPlugin.dll",
+		"EmailPluginEditor": "UE4Editor-EmailPluginEditor.dll"
+	}
+}
