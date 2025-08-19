@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "4.0.1",
+	"FriendlyName": "Oceanology IV",
+	"Description": "The central design of our model is an accurate and efficient description of the sea surface, based on both cutting-edge results in oceanography and advanced 3D computing techniques.",
+	"Category": "Ocean",
+	"CreatedBy": "Galidar LLC",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ad53b85f109c87b4a8bf580898186114",
+	"SupportURL": "https://discordapp.com/invite/fVJmuWr",
+	"EngineVersion": "4.26.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "Oceanology_Plugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		}
+	]
+}
