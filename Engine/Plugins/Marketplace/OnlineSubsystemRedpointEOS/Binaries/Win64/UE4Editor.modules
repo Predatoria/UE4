@@ -1,0 +1,19 @@
+{
+	"BuildId": "059291dd-1046-4bfa-869e-97f8d9b34381",
+	"Modules": 
+	{
+		"OnlineSubsystemRedpointDiscord": "UE4Editor-OnlineSubsystemRedpointDiscord.dll",
+		"OnlineSubsystemRedpointEOS": "UE4Editor-OnlineSubsystemRedpointEOS.dll",
+		"OnlineSubsystemRedpointItchIo": "UE4Editor-OnlineSubsystemRedpointItchIo.dll",
+		"OnlineSubsystemRedpointOculus": "UE4Editor-OnlineSubsystemRedpointOculus.dll",
+		"OnlineSubsystemRedpointSteam": "UE4Editor-OnlineSubsystemRedpointSteam.dll",
+		"RedpointDiscordGameSDKRuntime": "UE4Editor-RedpointDiscordGameSDKRuntime.dll",
+		"RedpointEOSEditor": "UE4Editor-RedpointEOSEditor.dll",
+		"RedpointEOSEditorTests": "UE4Editor-RedpointEOSEditorTests.dll",
+		"RedpointEOSPlatformDefault": "UE4Editor-RedpointEOSPlatformDefault.dll",
+		"RedpointEOSTests": "UE4Editor-RedpointEOSTests.dll",
+		"RedpointEOSUtils": "UE4Editor-RedpointEOSUtils.dll",
+		"RedpointEOSVoiceChat": "UE4Editor-RedpointEOSVoiceChat.dll",
+		"RedpointLibHydrogen": "UE4Editor-RedpointLibHydrogen.dll"
+	}
+}

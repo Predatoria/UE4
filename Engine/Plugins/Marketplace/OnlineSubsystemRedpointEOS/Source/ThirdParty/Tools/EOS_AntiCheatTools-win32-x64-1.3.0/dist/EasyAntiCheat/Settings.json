@@ -1,0 +1,9 @@
+{
+	"title"											: "Beasts Of Bermuda",
+	"executable"									: "BeastsOfBermuda.exe",
+	"productid"										: "4f16717e2d3d4f408959cf1cd6c62294",
+	"sandboxid"										: "33ad6ab00d8447aab332d2a7075c2cf2",
+	"deploymentid"									: "c56a0fc60cd447acb84aaab30673aa72",
+	"requested_splash"								: "EasyAntiCheat/SplashScreen.png",
+	"wait_for_game_process_exit"					: "false"
+}

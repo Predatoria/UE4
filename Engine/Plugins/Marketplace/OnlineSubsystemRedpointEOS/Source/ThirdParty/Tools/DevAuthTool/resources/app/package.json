@@ -1,0 +1,22 @@
+{
+  "name": "devauthtool",
+  "productName": "EOS_DevAuthTool",
+  "version": "1.1.0",
+  "description": "Developer authentication tool for EOS SDK",
+  "main": ".webpack/main",
+  "scripts": {
+    "start": "electron-forge start",
+    "make-win": "electron-forge package --platform win32 && npm run delete-node-modules && electron-forge make --platform win32 --skip-package",
+    "make-mac": "electron-forge make --platform darwin --arch x64",
+    "delete-node-modules": "node -e \"require('fs').rmdirSync('out/EOS_DevAuthTool-win32-x64/resources/app/node_modules')\"",
+    "lint": "eslint src --color"
+  },
+  "keywords": [],
+  "author": "Epic Games",
+  "license": "MIT",
+  "config": {},
+  "devDependencies": {},
+  "dependencies": {},
+  "optionalDependencies": {},
+  "peerDependencies": {}
+}
