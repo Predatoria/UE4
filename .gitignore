@@ -239,3 +239,6 @@ Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/**
 
 # Add an exception for the EOS dll that Detestation needs
 !/Engine/Plugins/Marketplace/OnlineSubsystemRedpointEOS/Source/ThirdParty/Bin/EOSSDK-Win64-Shipping.dll
+!/Engine/Plugins/Marketplace/OnlineSubsystemRedpointEOS/Source/RedpointEOSSDK/RedpointEOSSDK.Build.cs
+!/Engine/Plugins/Marketplace/DonAINavigation/Source/DonAINavigation/DonAINavigation.Build.cs
+!*.Build.cs
