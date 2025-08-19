@@ -197,7 +197,6 @@ enc_temp_folder/
 
 # Ignore content folders
 Content/
-Engine/Plugins/**
 !/Engine/Plugins/Marketplace/**
 !Marketplace/
 
