@@ -241,3 +241,6 @@ Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/**
 !/Engine/Plugins/Marketplace/OnlineSubsystemRedpointEOS/Source/RedpointEOSSDK/RedpointEOSSDK.Build.cs
 !/Engine/Plugins/Marketplace/DonAINavigation/Source/DonAINavigation/DonAINavigation.Build.cs
 !*.Build.cs
+
+# re-adds the missing steamworks version
+!/Engine/Source/ThirdParty/Steamworks/Steamv155/sdk/redistributable_bin/**
