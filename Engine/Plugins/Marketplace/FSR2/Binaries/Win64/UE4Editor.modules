@@ -1,0 +1,14 @@
+{
+	"BuildId": "e3dc6c5c-6a2a-47e2-9a4e-cb6b2416fabf",
+	"Modules": 
+	{
+		"FFXFSR2Api": "UE4Editor-FFXFSR2Api.dll",
+		"FFXFSR2D3D12": "UE4Editor-FFXFSR2D3D12.dll",
+		"FFXFSR2Vulkan": "UE4Editor-FFXFSR2Vulkan.dll",
+		"FSR2": "UE4Editor-FSR2.dll",
+		"FSR2TemporalUpscaling": "UE4Editor-FSR2TemporalUpscaling.dll",
+		"FSR2TemporalUpscalingD3D12": "UE4Editor-FSR2TemporalUpscalingD3D12.dll",
+		"FSR2TemporalUpscalingEditor": "UE4Editor-FSR2TemporalUpscalingEditor.dll",
+		"FSR2TemporalUpscalingVulkan": "UE4Editor-FSR2TemporalUpscalingVulkan.dll"
+	}
+}
